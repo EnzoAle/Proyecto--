@@ -1,0 +1,72 @@
+
+body {
+  background-color: #615f5d;
+   margin: 0px;
+  padding: 0px;
+}
+.row{
+  margin-left:0px ;
+  margin-right:0px ;
+
+}
+
+.links-lista {
+  position: absolute;
+}
+.a-links {
+  margin: 24px;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.anuncio {
+  text-align: center;
+  margin-top: 300px;
+}
+.cardbs {
+  background-color: rgb(225, 183, 53);
+}
+.cardyb {
+  background-color: rgb(225, 183, 53);
+}
+.cardbn {
+  background-color: rgb(225, 183, 53);
+}
+.cardmj {
+  background-color: rgb(225, 183, 53);
+}
+.cart {
+  font-weight: bold;
+}
+.img-footer {
+  width: 250px;
+  border-radius: 30%;
+}
+.div-img-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.copy {
+  margin-top: 250px;
+}
+.fondo1 {
+  background-image: url(./img/WhatsApp\ Image\ 2022-08-15\ at\ 23.57.57.jpeg);
+  background-position: center;
+  background-size: cover;
+}
+
+.btn-up {
+  height: 50px;
+  width: 50px;
+  border-radius: 40px;
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  background: rgb(109, 78, 78);
+}
+.btn-up:hover {
+  transform: scale(1.1);
+}
